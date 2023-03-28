@@ -1,6 +1,6 @@
 ﻿# FitnessClub
 
-<h1>3ИСП9-19ВБ, Устинов Александр</h1>
+<h1>3ИСП9-19ВБ, Тюндешев Олчей</h1>
 
 <b>Структура:</b>
 ![image](https://user-images.githubusercontent.com/116631267/221530731-1a6907ea-fcc4-4dcc-94de-50499d33987b.png)
